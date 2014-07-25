@@ -1,0 +1,9 @@
+<plugin name=\"ClassDiagram\" version=\"0.0.1\" compatVersion=\"0.0.1\">
+    <vendor>Podshiblov</vendor>
+    <copyright>(C) Podshiblov</copyright>
+    <license>Put your license text here</license>
+    <description>Put a short description of your plugin here</description>
+    <url>-</url>
+    $$dependencyList
+</plugin>
+
